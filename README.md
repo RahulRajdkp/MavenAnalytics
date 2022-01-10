@@ -1,2 +1,2 @@
 # MavenAnalytics
-Maven Analytics Taxi challenge
+Maven Analyticcs challenge
