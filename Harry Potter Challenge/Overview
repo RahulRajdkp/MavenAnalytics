@@ -1,0 +1,7 @@
+Dataset included : Chapters, Characters, Dialogue, Movies, Places, and Spells
+
+Simple Analysis was done using Microsoft Excel (Pivot Table)
+
+Dialogue table acted as a fact with chapters, character, places as dimensional table
+
+Spells was a Hanging Table
