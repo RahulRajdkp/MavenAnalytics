@@ -1,0 +1,28 @@
+1. Aim : To create an infographic style visual using the dataset of Tour de France from Maven Analytics playground.
+
+2. Goals : To educate new viewers, highlight the magnitude of the event, and build anticipation for this year's race.
+
+3. Dataset : Tours, Winners, Finishers, Stages as .csv files
+
+4. Project Description :
+
+    This infographic style visual was created keeping in mind both the technical and non-technical audience
+
+      1.Data Preparation – Excel (Text functions, Data types, etc.)
+      2.Exploratory Data Analysis – Power Pivot and Pivot table were used to analyse the data (Unnecessary columns were identified, Data types were managed, Missing rows were handled by ignoring them, Univariate analysis – Histograms, Box plots, Bivariate analysis – Scatter plots)
+      3.Data Modelling – Power BI's Power Query was used for data modelling. Although the Year field was available in all tables, it wasn't a good candidate to connect them in some combinations, as it caused a Many-to-one relationship. Some combinations of tables dint need joining, as the tables contained everything necessary. So all were hanging tables.
+      4.Data Visualization – The entire infographics was designed keeping in mind to educate new viewers, pull non-EU viewers and highlight its magnitude.
+
+          + The first section contains an Introduction & Summary of this grand event along with different stage types, event description, prize amount along with the top 5 performing countries and top Non-EU finishers.
+          + The Second section contains the Summary of the Tours held thus far Cards Scatter plot (relationship between race distance and race finishers)
+          + The third section contains a Summary of the Stages and Winners of the tours Pie chart – Distance across different stage types Area chart – Stage types over years (Grouped into main category of Flat, Hilly, Mountain,Time Trial) Bar chart – Non-Eu stage type winners, stages won vs riders Tables – Winning Margins, Unique Riders Waterfall chart – Top 7 winners Tree map- Non-Eu Winners Other facts ⇾ Welcoming the audience to follow 2023 tour using an QR ode to reach the official website of Le Tour de France 2023
+
+5. Conclusion :
+
+    + Infographic Visual – So, no slicers/ Tooltips/drill down/multipage
+    + To educate new viewers – First Section Introduction & all the summary cards (Targeted non-EU users depicting their contribution to the events)
+    + Highlighting the magnitude – Cards, Charts, and facts ( Eg : Total tours, participating countries, price, distance, and speed)
+    + Build Anticipation – Facts and Charts (Eg : Fastest rider average speed = Zebra, Gorilla avg. speed)
+
+Icons : Canva, Lovepik, Flaticons
+View Original submission [here](https://mavenanalytics.io/project/7143)
