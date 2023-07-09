@@ -16,3 +16,7 @@ Each Challenge contains an Overview, screenshots, and  a design schema
 
 (https://app.powerbi.com/links/cmswNKcszQ?ctid=b8f88a0b-3d95-478b-b123-a494d78523a4&pbi_source=linkShare)
 
+[Tour De France Challenge]
+
+(https://app.powerbi.com/links/Bgn5zPZUhX?ctid=b8f88a0b-3d95-478b-b123-a494d78523a4&pbi_source=linkShare)
+
